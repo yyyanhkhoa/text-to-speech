@@ -1,2 +1,3 @@
 # text-to-speech
-# Biết văn bản thành mp3, có thể tải về
+# Biến văn bản thành mp3 hoặc video, có thể tải về
+pip install customtkinter python-docx edge-tts pygame
